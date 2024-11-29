@@ -1,4 +1,3 @@
-
 /// <reference types="cypress" />
 
 describe('Reqres API Testing', () => {
